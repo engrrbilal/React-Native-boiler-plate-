@@ -1,0 +1,4 @@
+#Sat May 19 12:19:13 PKT 2018
+base.0=/home/muhammad/Desktop/Bootcamp/patienttracker/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/muhammad/Desktop/Bootcamp/patienttracker/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
